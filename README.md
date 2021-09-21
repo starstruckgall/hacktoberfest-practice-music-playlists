@@ -2,7 +2,7 @@
 Note:-This repo is not included in the Hacktoberfest event, as it is for practice only
 
 
-### 🎧 visit the spotify playlist with all the favourite songs of our contributors [here](https://open.spotify.com/playlist/042y1O3TdTdoVmmaiHnJxF?si=694db3d090c64745) 
+### 🎧 visit the spotify playlist with all the favourite songs of our contributors ***[here](https://open.spotify.com/playlist/042y1O3TdTdoVmmaiHnJxF?si=694db3d090c64745)***
 #### Got any favorite songs you listen to on loop while coding add them to our [spotify coding playlist](https://open.spotify.com/playlist/042y1O3TdTdoVmmaiHnJxF?si=694db3d090c64745) by following the instructions given below.
 
 
