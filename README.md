@@ -35,7 +35,7 @@ Repo for you to raise a Pull Request for practice.
 5. [Push](https://help.github.com/articles/pushing-to-a-remote/) your changes to your forked version
 6. Go to original project on GitHub & Create a [Pull Request](https://help.github.com/articles/about-pull-requests/)
 
-## 🛠️ Installation Steps
+## 🛠️ Steps to contribute in detail
 
 1. Fork this repository
 2. Clone your forked copy of the project.
@@ -78,9 +78,9 @@ git checkout -b <your_branch_name>
 #### make changes to  ```songs.md``` file  if you are adding songs
 To add songs use the following syntax
  ```md 
- [song name](spotify link of the song)
+ [song name](spotify link of the song)  by Artist name
  ```
- replace song name with name of the song you are adding and spotify link with the spotify link of the song you are adding
+ replace song name with name of the song you are adding, spotify link with the spotify link of the song you are adding and Artist name with the name of the artist
  #### make changes to ```playlists.md``` if you are adding playlists
  To add playlist use the following syntax
  ```md 
