@@ -19,7 +19,7 @@ Repo for you to raise a Pull Request for practice.
 ### Adding songs
  Before adding Please check if the song already exists in [songs.md](https://github.com/bhargav794/hacktoberfest-practice-music-playlists/blob/main/songs.md)
  Or [here in the spotify playlist](https://open.spotify.com/playlist/042y1O3TdTdoVmmaiHnJxF?si=694db3d090c64745)
- If not Just add your favorite songs to ```songs.md``` file and I will add them to the coding playlist.
+ If not Just add your favorite songs to ```songs.md``` file and I will add them to the coding playlist in spotify.
  
  
  ### Adding playlists
