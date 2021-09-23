@@ -39,4 +39,5 @@
 - [Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU?si=b2be41804fc6477b) by DJ Snake and Justin Bieber
 - [Your Young Voice](https://open.spotify.com/track/0htCIJB0AHQISL5ygjgBgm?si=f9c00502d3874106) by Jonny Muir
 - [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq?autoplay=true)  by Novo Amor
+- [I'm Not a Hero](https://open.spotify.com/track/56pKYnSA0CyayMJWcEU5kH?si=5a73c6d798a94535)  by Hans Zimmer
 
