@@ -17,6 +17,9 @@
 - [Something just like this](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW?si=620a80d7bf5344ce) by Coldplay,Chainsmokers
 - [Cheap Thrills(feat. Sean paul)](https://open.spotify.com/track/6b3b7lILUJqXcp6w9wNQSm?si=56314b150b7a48c9) by sia,sean paul
 - [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6?si=b5e5bd9951f946ca) by Jet
+- [Hey You](https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN?si=9bd55ecb23fe45ed) by Pink Floyd
+- [Hysteria](https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD?si=a6b0cdb029a44dae) by Muse
+- [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r?si=c6d1e6027a5049c4) by Radiohead
 - [Where is my mind](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K?si=5038a99c53d7403f) by Pixies
 - [Dreams](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz?si=139679eefa0b4afe) by Fleetwood Mac
 - [The Chain](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU?si=ba39a949e8494314) by Fleetwood Mac
@@ -32,3 +35,4 @@
 - [Stayin' Alive](https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM?si=65fb58fe5aee47c5) by Bee Gees
 - [No Time for Caution](https://open.spotify.com/track/1W6LZGinxm6voDaC8NVnDU?si=a2829f5f502a497a) by Hans Zimmer
 - [POSTERITY](https://open.spotify.com/track/1AKIi40li4kyJHQKOuF3Qz?si=d7a91e081bbd49c9) by Ludwig Goransson
+ 
