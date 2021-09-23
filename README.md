@@ -9,7 +9,7 @@ If you have any trouble or got stuck at some point raise an issue and I will hel
 
 ## ⭐ What Is [Hacktoberfest](https://hacktoberfest.digitalocean.com/)?
 
-![Hacktoberfest Logo](https://github.com/bhargav794/hacktoberfest-practice-add-yourself/raw/main/hacktoberfest.png)
+![Hacktoberfest Logo](https://github.com/Opentek-Org/hacktoberfest-practice-add-yourself/raw/main/hacktoberfest.png)
 
 Hosted by DigitalOcean for the 8th year in a row, Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects.
 
