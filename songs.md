@@ -51,3 +51,4 @@
 - [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6?si=dcf486310d194d01) by KALEO
 - [Trampoline](https://open.spotify.com/track/0lsRatBUs9HNIZAmoGABzk?si=22f905d250d4475d) by SHAED
 - [Skin](https://open.spotify.com/track/03B2SfXuvDh1m9F4tqrX07?si=322a896842464e53) by Sabrina Carpenter
+- [Hold On](https://open.spotify.com/album/2EfmyRWheMtmVTCIsptsLi?highlight=spotify:track:5vjLSffimiIP26QG5WcN2K) by Chord Overstreet
