@@ -37,3 +37,5 @@
 - [POSTERITY](https://open.spotify.com/track/1AKIi40li4kyJHQKOuF3Qz?si=d7a91e081bbd49c9) by Ludwig Goransson
 - [Stairway To Heaven](https://open.spotify.com/track/12wlYeErSUNGg1B5d64077?si=90e4f328fd004097) by Led Zeppelin
 - [Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU?si=b2be41804fc6477b) by DJ Snake and Justin Bieber
+- [Your Young Voice](https://open.spotify.com/track/0htCIJB0AHQISL5ygjgBgm?si=f9c00502d3874106) by Jonny Muir
+
