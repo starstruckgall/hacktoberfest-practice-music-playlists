@@ -1,5 +1,6 @@
 # hacktoberfest-practice-music-playlists
-Note:-This repo is not included in the Hacktoberfest event, as it is for practice only
+Note:-This repo is not included in the Hacktoberfest event, as it is for practice only.
+If you have any trouble or got stuck at some point raise an issue and I will help.
 
 
 ### 🎧 visit the spotify playlist of all the favourite songs of our contributors ***[here](https://open.spotify.com/playlist/042y1O3TdTdoVmmaiHnJxF?si=694db3d090c64745)***
