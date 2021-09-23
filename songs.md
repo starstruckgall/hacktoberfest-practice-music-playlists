@@ -40,4 +40,13 @@
 - [Your Young Voice](https://open.spotify.com/track/0htCIJB0AHQISL5ygjgBgm?si=f9c00502d3874106) by Jonny Muir
 - [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq?autoplay=true)  by Novo Amor
 - [I'm Not a Hero](https://open.spotify.com/track/56pKYnSA0CyayMJWcEU5kH?si=5a73c6d798a94535)  by Hans Zimmer
-
+- [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP?si=b406b4291fba44ef) by Imagine Dragons
+- [Titanium](https://open.spotify.com/track/4OQfIweaFWNTT5NkJ04txq?si=6561b067dea44118) by David Guetta, Sia
+- [Sugar & Brownies](https://open.spotify.com/track/16ih0TTm4REIQuYBMPTHm8?si=46e96909a7864666) by Dharia
+- [On & On](https://open.spotify.com/track/4B2kkxg3wKSTZw5JPaUtzQ?si=0080e7faa0064f8d) by Cartoon, Daniel Levi
+- [Demons](https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR?si=572ce6cc2af94727) by Imagine Dragons
+- [Faded](https://open.spotify.com/track/7gHs73wELdeycvS48JfIos?si=8ee00f0400134484) by Alan Walker
+- [Count on Me](https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU?si=3653a8988d554ee5) by Bruno Mars
+- [Counting Stars](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1?si=dc693ceab1f44882) by OneRepublic
+- [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6?si=dcf486310d194d01) by KALEO
+- [Trampoline](https://open.spotify.com/track/0lsRatBUs9HNIZAmoGABzk?si=22f905d250d4475d) by SHAED
