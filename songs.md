@@ -51,3 +51,5 @@
 - [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6?si=dcf486310d194d01) by KALEO
 - [Trampoline](https://open.spotify.com/track/0lsRatBUs9HNIZAmoGABzk?si=22f905d250d4475d) by SHAED
 - [Skin](https://open.spotify.com/track/03B2SfXuvDh1m9F4tqrX07?si=322a896842464e53) by Sabrina Carpenter
+- [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG?uid=776c13f9991e6419daab&uri=spotify%3Atrack%3A1Xi84slp6FryDSCbzq4UCD) by Duncan
+Laurence
