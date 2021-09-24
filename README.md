@@ -42,7 +42,7 @@ Repo for you to raise a Pull Request for practice.
 2. Clone your forked copy of the project.
 
 ```bash
-git clone https://github.com/<your username>/hacktoberfest-practice-add-yourself.git
+git clone https://github.com/<your username>/hacktoberfest-practice-music-playlists.git
 ```
 
 3. Change the working directory
