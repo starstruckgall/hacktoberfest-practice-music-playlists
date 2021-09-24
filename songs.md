@@ -53,3 +53,4 @@
 - [Skin](https://open.spotify.com/track/03B2SfXuvDh1m9F4tqrX07?si=322a896842464e53) by Sabrina Carpenter
 - [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG?uid=776c13f9991e6419daab&uri=spotify%3Atrack%3A1Xi84slp6FryDSCbzq4UCD) by Duncan
 Laurence
+- [Hold On](https://open.spotify.com/album/2EfmyRWheMtmVTCIsptsLi?highlight=spotify:track:5vjLSffimiIP26QG5WcN2K) by Chord Overstreet
