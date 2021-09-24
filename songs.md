@@ -30,6 +30,7 @@
 - [Pray For Me](https://open.spotify.com/track/77UjLW8j5UAGAGVGhR5oUK?si=a638537817454814) by The Weeknd, Kendrick Lamar
 - [What A Life](https://open.spotify.com/track/4DXceUhBu8hVYO1EuT6EOt?si=d034ba4601ae4ed2) by Scarlet Pleasure
 - [Blinding Lights](https://open.spotify.com/track/5Sg09MvHqNWPWsYeuY2toY?si=a495f5974a344972) by The Weeknd
+- [Boulevard of broken dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd?si=bb585e27c97540ef) by Green Day
 - [Starboy](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB?si=9894f88bf5194440) by The Weeknd
 - [Hotel California](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv?si=c99e1fef73c640d0) by Eagles
 - [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh?si=b93417ca632845f0) by Willy And The Poor Boys
