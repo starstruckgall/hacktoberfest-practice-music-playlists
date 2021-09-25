@@ -58,5 +58,7 @@ Laurence
 - [Hold On](https://open.spotify.com/album/2EfmyRWheMtmVTCIsptsLi?highlight=spotify:track:5vjLSffimiIP26QG5WcN2K) by Chord Overstreet
 - [Hymn for the weekend](https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy?si=7e91b6601e9c45ba)  by coldplay
 - [moonlight](https://open.spotify.com/track/4d83gRvk3DHU5cWBbyOlSk?si=d20d6830eb6742e4)  by dhruv
+- [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ?si=e0b98e98651549d3) by When Chai Met Toast
 - [Katamaritaino](https://open.spotify.com/track/1rA9hzT9WnHYnOzsxnQEFB?si=c9e08568edcd4cf2) by TheOneUps
 ### Don't add songs here at the end. Add them anywhere at the middle
+ 
