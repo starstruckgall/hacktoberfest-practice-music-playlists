@@ -27,7 +27,9 @@
 - [Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz?si=4a0b5808ae1146f8) by Drake
 - [Mind Your Own Business](https://open.spotify.com/track/2CMQoSgyQLXshYuWLdtlRh?si=5c0740ab94a84d07) by Delta 5
 - [Mountains](https://open.spotify.com/track/0Sg3UL7f40ulmTh0Xwr6qY?si=6cb19becde4f4ffe) by Hans Zimmer
+- [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb?autoplay=true) by Imagine Dragons
 - [Pray For Me](https://open.spotify.com/track/77UjLW8j5UAGAGVGhR5oUK?si=a638537817454814) by The Weeknd, Kendrick Lamar
+- [Hall of Fame ft. will.i.am](https://open.spotify.com/track/1X1DWw2pcNZ8zSub3uhlNz?autoplay=true) by The Script
 - [What A Life](https://open.spotify.com/track/4DXceUhBu8hVYO1EuT6EOt?si=d034ba4601ae4ed2) by Scarlet Pleasure
 - [Blinding Lights](https://open.spotify.com/track/5Sg09MvHqNWPWsYeuY2toY?si=a495f5974a344972) by The Weeknd
 - [Boulevard of broken dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd?si=bb585e27c97540ef) by Green Day
@@ -37,9 +39,11 @@
 - [Stayin' Alive](https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM?si=65fb58fe5aee47c5) by Bee Gees
 - [No Time for Caution](https://open.spotify.com/track/1W6LZGinxm6voDaC8NVnDU?si=a2829f5f502a497a) by Hans Zimmer
 - [POSTERITY](https://open.spotify.com/track/1AKIi40li4kyJHQKOuF3Qz?si=d7a91e081bbd49c9) by Ludwig Goransson
+- [Revolution](https://open.spotify.com/track/5Qs72OBqzllBJlcu5uDq2K?autoplay=true) by The Score
 - [Stairway To Heaven](https://open.spotify.com/track/12wlYeErSUNGg1B5d64077?si=90e4f328fd004097) by Led Zeppelin
 - [Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU?si=b2be41804fc6477b) by DJ Snake and Justin Bieber
 - [Your Young Voice](https://open.spotify.com/track/0htCIJB0AHQISL5ygjgBgm?si=f9c00502d3874106) by Jonny Muir
+- [STAY](https://open.spotify.com/track/4kux0P5UfguojB4h0lQnsj?autoplay=true) by Justin Bieber, The Kid LAROI
 - [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq?autoplay=true)  by Novo Amor
 - [I'm Not a Hero](https://open.spotify.com/track/56pKYnSA0CyayMJWcEU5kH?si=5a73c6d798a94535)  by Hans Zimmer
 - [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP?si=b406b4291fba44ef) by Imagine Dragons
