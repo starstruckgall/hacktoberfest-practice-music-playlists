@@ -15,7 +15,7 @@ Hosted by DigitalOcean for the 8th year in a row, Hacktoberfest encourages parti
 
 ## 🚀 Contributing
 You need the following things installed to contribute to open source
-1. If you don't have git installed on your system install it here(https://git-scm.com/downloads)
+1. If you don't have git installed on your system install it [here](https://git-scm.com/downloads)
 2. Any IDE (preferrably [VScode](https://code.visualstudio.com/download))
 
 Repo for you to raise a Pull Request for practice.
