@@ -9,11 +9,14 @@ If you have any trouble or got stuck at some point raise an issue and I will hel
 
 ## ⭐ What Is [Hacktoberfest](https://hacktoberfest.digitalocean.com/)?
 
-![Hacktoberfest Logo](https://github.com/bhargav794/hacktoberfest-practice-add-yourself/raw/main/hacktoberfest.png)
+![Hacktoberfest Logo](https://github.com/Opentek-Org/hacktoberfest-practice-add-yourself/raw/main/hacktoberfest.png)
 
 Hosted by DigitalOcean for the 8th year in a row, Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects.
 
 ## 🚀 Contributing
+You need the following things installed to contribute to open source
+1. If you don't have git installed on your system install it [here](https://git-scm.com/downloads)
+2. Any IDE (preferrably [VScode](https://code.visualstudio.com/download))
 
 Repo for you to raise a Pull Request for practice.
 
@@ -42,7 +45,7 @@ Repo for you to raise a Pull Request for practice.
 2. Clone your forked copy of the project.
 
 ```bash
-git clone https://github.com/<your username>/hacktoberfest-practice-add-yourself.git
+git clone https://github.com/<your username>/hacktoberfest-practice-music-playlists.git
 ```
 
 3. Change the working directory
