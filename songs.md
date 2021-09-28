@@ -41,7 +41,7 @@
 - [POSTERITY](https://open.spotify.com/track/1AKIi40li4kyJHQKOuF3Qz?si=d7a91e081bbd49c9) by Ludwig Goransson
 - [Revolution](https://open.spotify.com/track/5Qs72OBqzllBJlcu5uDq2K?autoplay=true) by The Score
 - [Stairway To Heaven](https://open.spotify.com/track/12wlYeErSUNGg1B5d64077?si=90e4f328fd004097) by Led Zeppelin
-- [Beliver](https://open.spotify.com/search/Beliver)by Imagine Dragons
+- [Believer(feat.lil wayne)](https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN?si=abab62b456044a61) by Imagine Dragons, lil wayne
 - [Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU?si=b2be41804fc6477b) by DJ Snake and Justin Bieber
 - [Your Young Voice](https://open.spotify.com/track/0htCIJB0AHQISL5ygjgBgm?si=f9c00502d3874106) by Jonny Muir
 - [STAY](https://open.spotify.com/track/4kux0P5UfguojB4h0lQnsj?autoplay=true) by Justin Bieber, The Kid LAROI
