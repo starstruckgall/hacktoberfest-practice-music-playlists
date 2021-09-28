@@ -1,7 +1,6 @@
 # 💖 Songs loved by our contributors
 
 ### Don't add songs here at the beginning or at the end add them anywhere in the middle
-
 - [Perfect](https://open.spotify.com/track/3NLnwwAQbbFKcEcV8hDItk?si=99fd530f93a84848) by one direction
 - [Blank space](https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g?si=bf8bf247e18b4560) by Taylor Swift
 - [sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD?si=687229ed255f454c) by Jonas brothers
@@ -70,5 +69,4 @@
 - [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ?si=e0b98e98651549d3) by When Chai Met Toast
 - [Katamaritaino](https://open.spotify.com/track/1rA9hzT9WnHYnOzsxnQEFB?si=c9e08568edcd4cf2) by TheOneUps
 - [titans](https://open.spotify.com/track/73HkJbtkrKCKBzuaYorTGX?si=jrHg1jcxQSiC6pGKm7BpHQ) by Major Lazer, Diplo
-
 ## **Don't add songs here at the end or at the beginning. Add them anywhere at the middle**
