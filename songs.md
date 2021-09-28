@@ -19,6 +19,7 @@
 - [Cheap Thrills(feat. Sean paul)](https://open.spotify.com/track/6b3b7lILUJqXcp6w9wNQSm?si=56314b150b7a48c9) by sia,sean paul
 - [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6?si=b5e5bd9951f946ca) by Jet
 - [Hey You](https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN?si=9bd55ecb23fe45ed) by Pink Floyd
+- [Fight Those Invisible Ninjas](https://open.spotify.com/track/0TafMZQB02c8D71VJyGSh4?si=1074c4abe66c4af5) by Watch Out For Snakes
 - [Hysteria](https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD?si=a6b0cdb029a44dae) by Muse
 - [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r?si=c6d1e6027a5049c4) by Radiohead
 - [Where is my mind](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K?si=5038a99c53d7403f) by Pixies
@@ -45,8 +46,8 @@
 - [Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU?si=b2be41804fc6477b) by DJ Snake and Justin Bieber
 - [Your Young Voice](https://open.spotify.com/track/0htCIJB0AHQISL5ygjgBgm?si=f9c00502d3874106) by Jonny Muir
 - [STAY](https://open.spotify.com/track/4kux0P5UfguojB4h0lQnsj?autoplay=true) by Justin Bieber, The Kid LAROI
-- [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq?autoplay=true)  by Novo Amor
-- [I'm Not a Hero](https://open.spotify.com/track/56pKYnSA0CyayMJWcEU5kH?si=5a73c6d798a94535)  by Hans Zimmer
+- [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq?autoplay=true) by Novo Amor
+- [I'm Not a Hero](https://open.spotify.com/track/56pKYnSA0CyayMJWcEU5kH?si=5a73c6d798a94535) by Hans Zimmer
 - [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP?si=b406b4291fba44ef) by Imagine Dragons
 - [Titanium](https://open.spotify.com/track/4OQfIweaFWNTT5NkJ04txq?si=6561b067dea44118) by David Guetta, Sia
 - [Sugar & Brownies](https://open.spotify.com/track/16ih0TTm4REIQuYBMPTHm8?si=46e96909a7864666) by Dharia
@@ -59,15 +60,13 @@
 - [Trampoline](https://open.spotify.com/track/0lsRatBUs9HNIZAmoGABzk?si=22f905d250d4475d) by SHAED
 - [Skin](https://open.spotify.com/track/03B2SfXuvDh1m9F4tqrX07?si=322a896842464e53) by Sabrina Carpenter
 - [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG?uid=776c13f9991e6419daab&uri=spotify%3Atrack%3A1Xi84slp6FryDSCbzq4UCD) by Duncan
-Laurence
-- [Hold On](https://open.spotify.com/album/2EfmyRWheMtmVTCIsptsLi?highlight=spotify:track:5vjLSffimiIP26QG5WcN2K) by Chord 
-Overstreet
+  Laurence
+- [Hold On](https://open.spotify.com/album/2EfmyRWheMtmVTCIsptsLi?highlight=spotify:track:5vjLSffimiIP26QG5WcN2K) by Chord
+  Overstreet
 - [Burnin' Up](https://open.spotify.com/track/2VEsmoek0sol9MnJFyoG9e?si=JI6ETybaRD2wrI5UUq-CwA&dl_branch=1) by Jonas Brothers
-- [Hymn for the weekend](https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy?si=7e91b6601e9c45ba)  by coldplay
-- [moonlight](https://open.spotify.com/track/4d83gRvk3DHU5cWBbyOlSk?si=d20d6830eb6742e4)  by dhruv
+- [Hymn for the weekend](https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy?si=7e91b6601e9c45ba) by coldplay
+- [moonlight](https://open.spotify.com/track/4d83gRvk3DHU5cWBbyOlSk?si=d20d6830eb6742e4) by dhruv
 - [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ?si=e0b98e98651549d3) by When Chai Met Toast
 - [Katamaritaino](https://open.spotify.com/track/1rA9hzT9WnHYnOzsxnQEFB?si=c9e08568edcd4cf2) by TheOneUps
 - [titans](https://open.spotify.com/track/73HkJbtkrKCKBzuaYorTGX?si=jrHg1jcxQSiC6pGKm7BpHQ) by Major Lazer, Diplo
-##  **Don't add songs here at the end or at the beginning. Add them anywhere at the middle**
-
- 
+## **Don't add songs here at the end or at the beginning. Add them anywhere at the middle**
