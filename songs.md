@@ -1,6 +1,7 @@
 # 💖 Songs loved by our contributors
 
 ### Don't add songs here at the beginning or at the end add them anywhere in the middle
+
 - [Perfect](https://open.spotify.com/track/3NLnwwAQbbFKcEcV8hDItk?si=99fd530f93a84848) by one direction
 - [Blank space](https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g?si=bf8bf247e18b4560) by Taylor Swift
 - [sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD?si=687229ed255f454c) by Jonas brothers
@@ -49,6 +50,9 @@
 - [STAY](https://open.spotify.com/track/4kux0P5UfguojB4h0lQnsj?autoplay=true) by Justin Bieber, The Kid LAROI
 - [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq?autoplay=true) by Novo Amor
 - [I'm Not a Hero](https://open.spotify.com/track/56pKYnSA0CyayMJWcEU5kH?si=5a73c6d798a94535) by Hans Zimmer
+
+- [Don't stop me now](https://open.spotify.com/track/43DHLzDkncpby82Po5jlOZ) by Queen
+
 - [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP?si=b406b4291fba44ef) by Imagine Dragons
 - [Titanium](https://open.spotify.com/track/4OQfIweaFWNTT5NkJ04txq?si=6561b067dea44118) by David Guetta, Sia
 - [Sugar & Brownies](https://open.spotify.com/track/16ih0TTm4REIQuYBMPTHm8?si=46e96909a7864666) by Dharia
@@ -70,4 +74,5 @@
 - [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ?si=e0b98e98651549d3) by When Chai Met Toast
 - [Katamaritaino](https://open.spotify.com/track/1rA9hzT9WnHYnOzsxnQEFB?si=c9e08568edcd4cf2) by TheOneUps
 - [titans](https://open.spotify.com/track/73HkJbtkrKCKBzuaYorTGX?si=jrHg1jcxQSiC6pGKm7BpHQ) by Major Lazer, Diplo
+
 ## **Don't add songs here at the end or at the beginning. Add them anywhere at the middle**
