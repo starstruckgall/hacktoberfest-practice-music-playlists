@@ -13,6 +13,7 @@
 - [Only You](https://open.spotify.com/track/5ZtfujhQIVRZm2RMZPQ3iD?si=b16bac6253544141) by Selena Gomez
 - [Capital Letters](https://open.spotify.com/album/2nmhzJgbpV1eJ5lvtZ7Z1c) by Hailee SteinFeld
 - [Diamonds](https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx?si=87837b3d959843eb) by Rihanna
+- [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk?si=851243bd279b49d9) by Steve Lacy
 - [Stay](https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0?si=7cbd5c35bfe6468a) by Alessia Cara, Zedd
 - [Beautiful People(feat. Sean paul)](https://open.spotify.com/track/70eFcWOvlMObDhURTqT4Fv?si=e25069dd604f4534) by Ed Sheeran,khalid
 - [FRIENDS](https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G?si=76a00edbe12b4938) by Anne Marie,Marshmellow
@@ -32,7 +33,7 @@
 - [Mountains](https://open.spotify.com/track/0Sg3UL7f40ulmTh0Xwr6qY?si=6cb19becde4f4ffe) by Hans Zimmer
 - [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb?autoplay=true) by Imagine Dragons
 - [Pray For Me](https://open.spotify.com/track/77UjLW8j5UAGAGVGhR5oUK?si=a638537817454814) by The Weeknd, Kendrick Lamar
-- [Hall of Fame ft. will.i.am](https://open.spotify.com/track/1X1DWw2pcNZ8zSub3uhlNz?autoplay=true) by The Script
+- [Hall of Fame (ft. will.i.am)](https://open.spotify.com/track/1X1DWw2pcNZ8zSub3uhlNz?autoplay=true) by The Script
 - [What A Life](https://open.spotify.com/track/4DXceUhBu8hVYO1EuT6EOt?si=d034ba4601ae4ed2) by Scarlet Pleasure
 - [Blinding Lights](https://open.spotify.com/track/5Sg09MvHqNWPWsYeuY2toY?si=a495f5974a344972) by The Weeknd
 - [Boulevard of broken dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd?si=bb585e27c97540ef) by Green Day
@@ -53,7 +54,7 @@
 - [I'm Not a Hero](https://open.spotify.com/track/56pKYnSA0CyayMJWcEU5kH?si=5a73c6d798a94535) by Hans Zimmer
 - [Heroes Tonight](https://open.spotify.com/track/3SipFlNddvL0XNZRLXvdZD?si=47e504ce864843be) by Janji, Johnning
 - [Don't stop me now](https://open.spotify.com/track/43DHLzDkncpby82Po5jlOZ) by Queen
-
+- [Come and get your love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) by Redbone
 - [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP?si=b406b4291fba44ef) by Imagine Dragons
 - [Titanium](https://open.spotify.com/track/4OQfIweaFWNTT5NkJ04txq?si=6561b067dea44118) by David Guetta, Sia
 - [Sugar & Brownies](https://open.spotify.com/track/16ih0TTm4REIQuYBMPTHm8?si=46e96909a7864666) by Dharia
@@ -62,6 +63,7 @@
 - [Faded](https://open.spotify.com/track/7gHs73wELdeycvS48JfIos?si=8ee00f0400134484) by Alan Walker
 - [Count on Me](https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU?si=3653a8988d554ee5) by Bruno Mars
 - [Counting Stars](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1?si=dc693ceab1f44882) by OneRepublic
+- [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3?si=33cdd7c9f6ef4c66) by Lorde
 - [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6?si=dcf486310d194d01) by KALEO
 - [Trampoline](https://open.spotify.com/track/0lsRatBUs9HNIZAmoGABzk?si=22f905d250d4475d) by SHAED
 - [Skin](https://open.spotify.com/track/03B2SfXuvDh1m9F4tqrX07?si=322a896842464e53) by Sabrina Carpenter
