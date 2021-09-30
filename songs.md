@@ -53,6 +53,8 @@
 
 - [Don't stop me now](https://open.spotify.com/track/43DHLzDkncpby82Po5jlOZ) by Queen
 
+- [Come and get your love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) by Redbone
+
 - [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP?si=b406b4291fba44ef) by Imagine Dragons
 - [Titanium](https://open.spotify.com/track/4OQfIweaFWNTT5NkJ04txq?si=6561b067dea44118) by David Guetta, Sia
 - [Sugar & Brownies](https://open.spotify.com/track/16ih0TTm4REIQuYBMPTHm8?si=46e96909a7864666) by Dharia
