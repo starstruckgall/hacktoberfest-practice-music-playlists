@@ -52,6 +52,7 @@
 - [STAY](https://open.spotify.com/track/4kux0P5UfguojB4h0lQnsj?autoplay=true) by Justin Bieber, The Kid LAROI
 - [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq?autoplay=true) by Novo Amor
 - [I'm Not a Hero](https://open.spotify.com/track/56pKYnSA0CyayMJWcEU5kH?si=5a73c6d798a94535) by Hans Zimmer
+- [Heroes Tonight](https://open.spotify.com/track/3SipFlNddvL0XNZRLXvdZD?si=47e504ce864843be) by Janji, Johnning
 - [Don't stop me now](https://open.spotify.com/track/43DHLzDkncpby82Po5jlOZ) by Queen
 - [Come and get your love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) by Redbone
 - [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP?si=b406b4291fba44ef) by Imagine Dragons
