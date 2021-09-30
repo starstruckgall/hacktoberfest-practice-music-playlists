@@ -13,6 +13,7 @@
 - [Only You](https://open.spotify.com/track/5ZtfujhQIVRZm2RMZPQ3iD?si=b16bac6253544141) by Selena Gomez
 - [Capital Letters](https://open.spotify.com/album/2nmhzJgbpV1eJ5lvtZ7Z1c) by Hailee SteinFeld
 - [Diamonds](https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx?si=87837b3d959843eb) by Rihanna
+- [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk?si=851243bd279b49d9) by Steve Lacy
 - [Stay](https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0?si=7cbd5c35bfe6468a) by Alessia Cara, Zedd
 - [Beautiful People(feat. Sean paul)](https://open.spotify.com/track/70eFcWOvlMObDhURTqT4Fv?si=e25069dd604f4534) by Ed Sheeran,khalid
 - [FRIENDS](https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G?si=76a00edbe12b4938) by Anne Marie,Marshmellow
