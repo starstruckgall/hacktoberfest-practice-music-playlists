@@ -43,6 +43,9 @@
 - [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh?si=b93417ca632845f0) by Willy And The Poor Boys
 - [Stayin' Alive](https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM?si=65fb58fe5aee47c5) by Bee Gees
 - [No Time for Caution](https://open.spotify.com/track/1W6LZGinxm6voDaC8NVnDU?si=a2829f5f502a497a) by Hans Zimmer
+- [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8?si=2a849cf3e5cf4517) by Billie Eilish
+- [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle?si=550e9157d5b14c4b) by Coldplay
+- [Honeypie](https://open.spotify.com/track/0rzWENXdfcLTgyt5DByGTy?si=aa17dab85b4b4724) by JAWNY
 - [POSTERITY](https://open.spotify.com/track/1AKIi40li4kyJHQKOuF3Qz?si=d7a91e081bbd49c9) by Ludwig Goransson
 - [Revolution](https://open.spotify.com/track/5Qs72OBqzllBJlcu5uDq2K?autoplay=true) by The Score
 - [Hunnybee](https://open.spotify.com/track/3DPFmwFtV5ElQaTniLOdgk?si=52029551e3424b95) by Unknown Mortal Orchestra
