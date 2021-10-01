@@ -28,6 +28,7 @@
 - [Where is my mind](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K?si=5038a99c53d7403f) by Pixies
 - [Dreams](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz?si=139679eefa0b4afe) by Fleetwood Mac
 - [The Chain](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU?si=ba39a949e8494314) by Fleetwood Mac
+- [Cheerleader](https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy?si=636a0c6c260d432f) by OMI
 - [Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz?si=4a0b5808ae1146f8) by Drake
 - [Mind Your Own Business](https://open.spotify.com/track/2CMQoSgyQLXshYuWLdtlRh?si=5c0740ab94a84d07) by Delta 5
 - [Mountains](https://open.spotify.com/track/0Sg3UL7f40ulmTh0Xwr6qY?si=6cb19becde4f4ffe) by Hans Zimmer
