@@ -86,5 +86,16 @@
 - [Katamaritaino](https://open.spotify.com/track/1rA9hzT9WnHYnOzsxnQEFB?si=c9e08568edcd4cf2) by TheOneUps
 - [Hey There Delilah ](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) by Plain White T's
 - [titans](https://open.spotify.com/track/73HkJbtkrKCKBzuaYorTGX?si=jrHg1jcxQSiC6pGKm7BpHQ) by Major Lazer, Diplo
-
+- [Knock Knock](https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn?si=c9b6138323f8409d) by Scattle
+- [Disco Yes](https://open.spotify.com/track/61Ivix5DTnDPVjp1dgLyov?si=2d342887949d4694) by Tom Misch, Poppy Ajudha
+- [My Type](https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI?si=77ce2e30f2f44f12) by Saint Motel
+- [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk?si=fe5a9f9962804ef2) by Eminem
+- [Edge Of The Night](https://open.spotify.com/track/1IWIqSlleSAzNQeKSpe4IJ?si=bcb987bfcb804a3e) by Sheppard
+- [NAPAL BAJI](https://open.spotify.com/track/3A5djNQe8IW4XPWQaplZO7?si=35d344c4818c416a) by PSY
+- [Drive (feat. Wes Nelson)](https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d?si=5ffa91849b90414b) by Clen Bandit, Topic (feat. Wes Nelson)
+- [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u?si=454b05cdeeac47c7) by The Weekend
+- [Be mine](https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w?si=cdcb97aa4de74cd7) by Ofenbach
+- [How Bizarre](https://open.spotify.com/track/46q5BtHso0ECuTKeq70ZhW?si=1553ca64c6474342) by OMC
+- [No Roots](https://open.spotify.com/track/3D5wnLaeVlCCIPzQOOAirA?si=71ff4a0d414a49a3) by Alice Merton
+- [Somebody's Watching Me - Chorus Version](https://open.spotify.com/track/39DTqHKbw01LUjuHcq90WT?si=5925d93d0c2b4ea2) by Mr. Confuse, John Winston Berta
 ## **Don't add songs here at the end or at the beginning. Add them anywhere at the middle**
