@@ -6,3 +6,4 @@
 - [Christmas](https://open.spotify.com/playlist/1pFsUmoygBfaWjUpQT80u3?si=5309cd7730df4fc9)
 - [Hotline Miami Soundtrack(1&2)](https://open.spotify.com/playlist/4uj6bJgjBtW7r91ognROc7?si=678694a6f1f545ce)
 - [Subnautica Relaxing Soundtrack](https://open.spotify.com/playlist/7AFqA6Tu3FXx0i63x3Omk5?si=335d9a9a017146aa)
+- [Deep House 2021](https://open.spotify.com/playlist/6vDGVr652ztNWKZuHvsFvx)
