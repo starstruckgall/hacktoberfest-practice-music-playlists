@@ -114,4 +114,12 @@ git push -u origin <your_branch_name>
 
 13. Voila 🎉 You have made a PR to the this project. Sit back patiently and relax while the project maintainers review your PR.
 
+---
+
+# 💖 Thanks for all the amazing songs and playlists guys
+<a href="https://github.com/bhargav794/hacktoberfest-practice-music-playlists/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=bhargav794/hacktoberfest-practice-music-playlists" />
+</a>
+
+---
 <h2 align="center">A Website for all the songs and playlists is coming soon😎</a></h2>
