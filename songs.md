@@ -104,4 +104,5 @@
 - [No Roots](https://open.spotify.com/track/3D5wnLaeVlCCIPzQOOAirA?si=71ff4a0d414a49a3) by Alice Merton
 - [Somebody's Watching Me - Chorus Version](https://open.spotify.com/track/39DTqHKbw01LUjuHcq90WT?si=5925d93d0c2b4ea2) by Mr. Confuse, John Winston Berta
 - ["Forever Yours (Tribute)](https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf?si=4c1a7da714af44d8) by KYGO , AVICII , SANDRO CAVAZZA
+- [Memories](https://open.spotify.com/track/7ilC2N3BVs7CFmEiOIYOep) by NATIIVE - FINLAY
 ## **Don't add songs here at the end or at the beginning. Add them anywhere at the middle**
