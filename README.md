@@ -116,7 +116,7 @@ git push -u origin <your_branch_name>
 
 ---
 
-# 💖 Thanks for all the amazing songs and playlists guys
+# 💖 Thanks for the amazing music guys
 <a href="https://github.com/bhargav794/hacktoberfest-practice-music-playlists/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=bhargav794/hacktoberfest-practice-music-playlists" />
 </a>
