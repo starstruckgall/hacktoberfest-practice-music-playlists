@@ -44,6 +44,7 @@
 -   [Pray For Me](https://open.spotify.com/track/77UjLW8j5UAGAGVGhR5oUK?si=a638537817454814) by The Weeknd, Kendrick Lamar
 -   [Hall of Fame (ft. will.i.am)](https://open.spotify.com/track/1X1DWw2pcNZ8zSub3uhlNz?autoplay=true) by The Script
 -   [What A Life](https://open.spotify.com/track/4DXceUhBu8hVYO1EuT6EOt?si=d034ba4601ae4ed2) by Scarlet Pleasure
+-   [Don't](https://open.spotify.com/track/7pvTLJOjJPbS97gnTfH6uH?si=24000913f8b940b5) by Icarus Moth x Mothica
 -   [Blinding Lights](https://open.spotify.com/track/5Sg09MvHqNWPWsYeuY2toY?si=a495f5974a344972) by The Weeknd
 -   [Boulevard of broken dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd?si=bb585e27c97540ef) by Green Day
 -   [Starboy](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB?si=9894f88bf5194440) by The Weeknd
