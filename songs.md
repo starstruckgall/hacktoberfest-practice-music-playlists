@@ -9,6 +9,7 @@
 -   [Perfect](https://open.spotify.com/track/3NLnwwAQbbFKcEcV8hDItk?si=99fd530f93a84848) by one direction
 -   [Blank space](https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g?si=bf8bf247e18b4560) by Taylor Swift
 -   [sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD?si=687229ed255f454c) by Jonas brothers
+-   [Dancin - Krono Remix](https://open.spotify.com/track/4IlqQhaxrGPxmg35YcXXuS?si=_VShp_2yQTCHJ4HfAZD6cw&utm_source=copy-link) by Aaron Smith, Luvii, Krono
 -   [Alone](https://open.spotify.com/track/3MEYFivt6bilQ9q9mFWZ4g?si=e420052b67f9492a) by Marshmellow+
 -   [Heavenly](https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm?si=05721fbbc14142ca) by Cigarettes After Sex
 -   [LOVE](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As?si=b03a1700d5dc400f) by Kendrick Lamar ft. Zacari
