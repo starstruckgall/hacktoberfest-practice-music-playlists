@@ -107,7 +107,9 @@
 -   [How Bizarre](https://open.spotify.com/track/46q5BtHso0ECuTKeq70ZhW?si=1553ca64c6474342) by OMC
 -   [No Roots](https://open.spotify.com/track/3D5wnLaeVlCCIPzQOOAirA?si=71ff4a0d414a49a3) by Alice Merton
 -   [Somebody's Watching Me - Chorus Version](https://open.spotify.com/track/39DTqHKbw01LUjuHcq90WT?si=5925d93d0c2b4ea2) by Mr. Confuse, John Winston Berta
--   ["Forever Yours (Tribute)](https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf?si=4c1a7da714af44d8) by KYGO , AVICII , SANDRO CAVAZZA
+-   [Forever Yours (Tribute)](https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf?si=4c1a7da714af44d8) by KYGO , AVICII , SANDRO CAVAZZA
 -   [Memories](https://open.spotify.com/track/7ilC2N3BVs7CFmEiOIYOep) by NATIIVE - FINLAY
+-   [Young Volcanoes](https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB?si=90da43d70a994840) by Fall Out Boys
+-   [Walking Disasters](https://open.spotify.com/track/282o3drzJvcam50jk7E8ef?si=d436382de50c4f2c) by The Wombats
 
 ## **Don't add songs here at the end or at the beginning. Add them anywhere at the middle**
