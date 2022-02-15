@@ -32,6 +32,7 @@
 -   [Cheap Thrills(feat. Sean paul)](https://open.spotify.com/track/6b3b7lILUJqXcp6w9wNQSm?si=56314b150b7a48c9) by sia,sean paul
 -   [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6?si=b5e5bd9951f946ca) by Jet
 -   [Hey You](https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN?si=9bd55ecb23fe45ed) by Pink Floyd
+-   [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX?si=39de2d86e6d4462c) by Conan Gray
 -   [Fight Those Invisible Ninjas](https://open.spotify.com/track/0TafMZQB02c8D71VJyGSh4?si=1074c4abe66c4af5) by Watch Out For Snakes
 -   [Hysteria](https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD?si=a6b0cdb029a44dae) by Muse
 -   [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r?si=c6d1e6027a5049c4) by Radiohead
