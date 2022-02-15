@@ -10,3 +10,5 @@
 - [Deep House 2021](https://open.spotify.com/playlist/6vDGVr652ztNWKZuHvsFvx)
 - [Somebody's Watching Me](https://open.spotify.com/playlist/70JGeLOPQMYiFX47QqTOj0?si=72eHUC8fRaGpovDubMdRJg&dl_branch=1&nd=1) 
 - [One Wish](https://open.spotify.com/playlist/2DLU3KOoS7lml3JMFGiOZg?si=4879835319bc462a)
+- [Creative Vibes](https://open.spotify.com/playlist/4dJsALSKlgnTJs0fx90fQf?si=a40a7e15dd644ee1)
+- [Creativity Boost](https://open.spotify.com/playlist/37i9dQZF1DX56qfiUZBncF?si=44ff6bf1a42a4e04)
