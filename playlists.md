@@ -12,3 +12,4 @@
 - [One Wish](https://open.spotify.com/playlist/2DLU3KOoS7lml3JMFGiOZg?si=4879835319bc462a)
 - [Creative Vibes](https://open.spotify.com/playlist/4dJsALSKlgnTJs0fx90fQf?si=a40a7e15dd644ee1)
 - [Creativity Boost](https://open.spotify.com/playlist/37i9dQZF1DX56qfiUZBncF?si=44ff6bf1a42a4e04)
+- [Grind](https://open.spotify.com/playlist/16u5bcPxF7CZSjkQFZS3i7?si=0ed4588166ff4a23)
