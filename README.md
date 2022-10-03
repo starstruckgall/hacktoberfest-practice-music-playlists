@@ -9,9 +9,9 @@ If you have any trouble or got stuck at some point raise an issue and I will hel
 
 ## ⭐ What Is [Hacktoberfest](https://hacktoberfest.digitalocean.com/)?
 
-![Hacktoberfest Logo](https://github.com/Opentek-Org/hacktoberfest-practice-add-yourself/raw/main/hacktoberfest.png)
+![Hacktoberfest Logo](https://user-images.githubusercontent.com/66371186/193650375-5a4ca90c-9842-4d7a-999a-451a943dd2c6.png)
 
-Hosted by DigitalOcean for the 8th year in a row, Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects.
+Hosted by DigitalOcean for the 9th year in a row, Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects.
 
 ## 🚀 Contributing
 You need the following things installed to contribute to open source
