@@ -113,6 +113,7 @@
 -   [Beautiful People(feat. Sean paul)](https://open.spotify.com/track/70eFcWOvlMObDhURTqT4Fv?si=e25069dd604f4534) by Ed Sheeran,khalid
 -   [FRIENDS](https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G?si=76a00edbe12b4938) by Anne Marie,Marshmellow
 -   [Here With Me](https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac?si=070a1839e51348dc) by Chvrches, Marshmello
+-   [Sonate Pacifique - Instrumental](https://open.spotify.com/track/1G8xOol6ke2vJKpPpPorsz) by L'Imperatrice
 -   [Something just like this](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW?si=620a80d7bf5344ce) by Coldplay,Chainsmokers
 -   [Cheap Thrills(feat. Sean paul)](https://open.spotify.com/track/6b3b7lILUJqXcp6w9wNQSm?si=56314b150b7a48c9) by sia,sean paul
 -   [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6?si=b5e5bd9951f946ca) by Jet
