@@ -14,3 +14,4 @@
 - [Creativity Boost](https://open.spotify.com/playlist/37i9dQZF1DX56qfiUZBncF?si=44ff6bf1a42a4e04)
 - [Grind](https://open.spotify.com/playlist/16u5bcPxF7CZSjkQFZS3i7?si=0ed4588166ff4a23)
 - [Deathcore](https://open.spotify.com/playlist/1WQ9A9zKTTU5msWTMqraiP?si=OjqBz6wIS9ChYnk7BgIjjw)
+- [Comfort zone](https://open.spotify.com/playlist/37i9dQZF1DWYWddJiPzbvb?si=420eb5969d154dd1)
